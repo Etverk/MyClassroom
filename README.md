@@ -1,9 +1,9 @@
-"# MyClassroom" 
+# MyClassroom
 
-##Vision
+## Vision
 - Application where teachers can create randomized classroom seating plans.
 
-##Features
+## Features
 - Website automatically adapts seating after factors such as how well students work together.
 - Login/sign up function where users can save their seating plans and student lists.
 - Generating better and better seating plans over time as teachers input information about the students.
