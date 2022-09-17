@@ -8,6 +8,7 @@
 - Login/sign up function where users can save their seating plans and student lists.
 - Generating better and better seating plans over time as teachers input information about the students.
 - Information taken into account such as eye damage, hearing damage, concentration issues, behaviour, etc 
+- Both a grid-based seating system, and a custom one with custom table dimensions.
 
 ### Technology
 - Web-based application built on HTML and CSS.
